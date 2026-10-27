@@ -1,1 +1,1 @@
-My complete solution for class-id-selectors
+My complete solution for class-id-selectors and grouping selectors.

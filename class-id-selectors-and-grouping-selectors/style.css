@@ -14,3 +14,15 @@
     font-size: 24px;
     font-weight: bold;
 }
+.kwanza,
+.pili{
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman",sans-serif;
+}
+.kwanza{
+    background-color: black;
+    color: white;
+}
+.pili{
+    background-color: yellow;
+}
